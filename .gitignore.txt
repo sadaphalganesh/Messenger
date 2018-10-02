@@ -1,0 +1,7 @@
+.settings/
+target/
+.classpath
+.settings
+.settings\
+target\
+target
